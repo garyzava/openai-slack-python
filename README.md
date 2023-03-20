@@ -9,9 +9,9 @@ Use this notebook is you want a simpler version here: [gpt-3.5-turbo](https://gi
 * [2 Installation](#2-installation)
 * [3 Usage](#3-usage)
 
-## 1 Prerequisites
+## 1. Prerequisites
 
-### 1a Create a Slack App
+### 1.a Create a Slack App
 
 Go to https://api.slack.com/apps and create an new app, the eaisest way is by using an App Manifest such as the following template:
 
@@ -67,11 +67,11 @@ settings:
 ```
 
 
-### 1b Enable an OpenAI's API Key
+### 1.b Enable an OpenAI's API Key
 
 Get a OpenAI key from https://platform.openai.com/account/api-keys
 
-### 1c Set up an Environment File
+### 1.c Set up an Environment File
 Create a `.env` file containing your keys. Your `.env` file should look like this:
 
 ```
@@ -80,12 +80,12 @@ SLACK_APP_TOKEN = 'xapp...'
 OPENAI_API_KEY = 'sk-....'
 ```
 
-## 2 Installation
+## 2. Installation
 It is advisable to create a virtual environment and activate it first.
 
 `pip install -r requirements.txt`
 
-## 3 Usage
+## 3. Usage
 
 To get the slack bot up and running start the bot by running:
 
