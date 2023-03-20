@@ -5,13 +5,13 @@ Use this notebook is you want a simpler version here: [gpt-3.5-turbo](https://gi
 
 ## Contents
 
-* [1. Prerequisites](#1.-prerequisites)
+* [1) Prerequisites](#1)-prerequisites)
 * [2. Installation](#2.-installation)
 * [3. Usage](#1.-usage)
 
-## 1. Prerequisites
+## 1) Prerequisites
 
-### 1.a Create a Slack App
+### 1a) Create a Slack App
 
 Go to https://api.slack.com/apps and create an new app, the eaisest way is by using an App Manifest such as the following template:
 
