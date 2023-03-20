@@ -1,5 +1,5 @@
-# OpenAI Python Scripts
-Slack App that calls ChatGPT From OpenAI's API. The app stores the chat log in a database to retain memory and reponds to two events: mentions and direct messages.
+# OpenAI Slack App Bot
+Slack App that uses Python to call ChatGPT From OpenAI's API. The app stores the chat log in a database to retain memory and reponds to two events: mentions and direct messages.
 
 Use this notebook is you want a simpler version here: [gpt-3.5-turbo](https://github.com/garyzava/openai-python-tools/blob/main/notebooks/gpt_3_5_turbo.ipynb)
 
