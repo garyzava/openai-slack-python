@@ -5,8 +5,9 @@ Use this notebook is you want a simpler version here: [gpt-3.5-turbo](https://gi
 
 ## Contents
 
-* [Installation]
-* [Usage]
+* [1. Prerequisites](#1.-prerequisites)
+* [2. Installation](#2.-installation)
+* [3. Usage](#1.-usage)
 
 ## 1. Prerequisites
 
